@@ -1,21 +1,5 @@
-# frontend
+# Frontend - Knowledge - VueJS - Udemy
 
-## Project setup
-```
-npm install
-```
+### O desenvolvimento desse projeto foi acopanhado através de um curso da Udemy, ministrado pelo ###excelente professor Leonardo Leitão. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+# [Link do curso](https://www.udemy.com/course/vue-js-completo/)
